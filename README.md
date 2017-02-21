@@ -1,0 +1,2 @@
+# automatctest
+Coderefinery cmake test
